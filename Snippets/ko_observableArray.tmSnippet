@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ko.observableArray(${1:});
+</string>
+	<key>name</key>
+	<string>ko.observableArray</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>kooa</string>
+	<key>uuid</key>
+	<string>A1DBC513-6E98-4B9B-A9A6-154714344FDF</string>
+</dict>
+</plist>

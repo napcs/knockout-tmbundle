@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;select id="$1" name="$2" data-bind="options: ${3:optionValues}, value: ${4:selectedValue}"&gt;</string>
+	<key>name</key>
+	<string>Select box with binding</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kosb</string>
+	<key>uuid</key>
+	<string>CCADC95D-D6A4-412B-B77F-906A0466E4BE</string>
+</dict>
+</plist>

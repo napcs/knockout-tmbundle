@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C433B27E-EBD2-4213-B70A-46389ADC6D53</string>
+			<string>F3986D06-4C3B-48C6-9641-427759148D7F</string>
+			<string>05EE93CD-466E-4BD7-9E62-A13308AE9EDA</string>
+			<string>AE567039-A755-46EF-9597-EFD67C56FD1C</string>
+			<string>------------------------------------</string>
+			<string>B42549B7-2E3B-4B94-BAD5-E7BF65F5C11E</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>05EE93CD-466E-4BD7-9E62-A13308AE9EDA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>317D1CE9-FA24-4C3F-926A-25F2A9E164A8</string>
+					<string>A1DBC513-6E98-4B9B-A9A6-154714344FDF</string>
+					<string>6B3A1FAC-5A00-4A91-A7BA-3E40719734AE</string>
+				</array>
+				<key>name</key>
+				<string>Observables</string>
+			</dict>
+			<key>AE567039-A755-46EF-9597-EFD67C56FD1C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>2253A773-3D8E-481C-B356-C814B41736E2</string>
+					<string>6B3C8146-C0E9-4F1D-A046-0F3DA6665C88</string>
+					<string>490610C9-268C-4DAA-8E26-63F69B8537E5</string>
+					<string>CCADC95D-D6A4-412B-B77F-906A0466E4BE</string>
+					<string>DD8F5A0A-36A2-4DA6-8080-9A840CA246BB</string>
+					<string>2945E465-76FF-4C75-B12B-36E666C37C10</string>
+				</array>
+				<key>name</key>
+				<string>Form fields</string>
+			</dict>
+			<key>C433B27E-EBD2-4213-B70A-46389ADC6D53</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>4D287F3A-1585-46C5-8843-BCB61C9D3216</string>
+					<string>B5038965-3031-4565-B558-1A04667EAADF</string>
+					<string>332C36A6-E94E-497C-B151-7CF0B75C0D93</string>
+					<string>C76D3A26-3820-4691-9578-2A0C45C68F04</string>
+					<string>17F8B230-105B-445B-B637-E97B2465E03B</string>
+				</array>
+				<key>name</key>
+				<string>Data binding</string>
+			</dict>
+			<key>F3986D06-4C3B-48C6-9641-427759148D7F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>D986D763-0729-4AE7-AFE3-576B927BE277</string>
+					<string>2FD6482A-BD40-4A18-BE1E-502272EB3ABE</string>
+				</array>
+				<key>name</key>
+				<string>View models</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Knockout</string>
+	<key>ordering</key>
+	<array>
+		<string>17F8B230-105B-445B-B637-E97B2465E03B</string>
+		<string>B5038965-3031-4565-B558-1A04667EAADF</string>
+		<string>4D287F3A-1585-46C5-8843-BCB61C9D3216</string>
+		<string>332C36A6-E94E-497C-B151-7CF0B75C0D93</string>
+		<string>C76D3A26-3820-4691-9578-2A0C45C68F04</string>
+		<string>B42549B7-2E3B-4B94-BAD5-E7BF65F5C11E</string>
+		<string>317D1CE9-FA24-4C3F-926A-25F2A9E164A8</string>
+		<string>A1DBC513-6E98-4B9B-A9A6-154714344FDF</string>
+		<string>2FD6482A-BD40-4A18-BE1E-502272EB3ABE</string>
+		<string>D986D763-0729-4AE7-AFE3-576B927BE277</string>
+		<string>6B3A1FAC-5A00-4A91-A7BA-3E40719734AE</string>
+		<string>2253A773-3D8E-481C-B356-C814B41736E2</string>
+		<string>6B3C8146-C0E9-4F1D-A046-0F3DA6665C88</string>
+		<string>490610C9-268C-4DAA-8E26-63F69B8537E5</string>
+		<string>CCADC95D-D6A4-412B-B77F-906A0466E4BE</string>
+		<string>DD8F5A0A-36A2-4DA6-8080-9A840CA246BB</string>
+		<string>2945E465-76FF-4C75-B12B-36E666C37C10</string>
+	</array>
+	<key>uuid</key>
+	<string>3D773E62-C785-4C04-A943-4BAB2D39CB1F</string>
+</dict>
+</plist>

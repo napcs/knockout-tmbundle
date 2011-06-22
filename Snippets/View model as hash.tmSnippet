@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:foo} = {
+  $0
+};
+
+${2:ko.applyBindings(${1:foo});}</string>
+	<key>name</key>
+	<string>New View model as hash</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>kovmh</string>
+	<key>uuid</key>
+	<string>D986D763-0729-4AE7-AFE3-576B927BE277</string>
+</dict>
+</plist>
