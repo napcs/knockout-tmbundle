@@ -3,6 +3,15 @@ Knockout.JS TextMate bundle
 
 Provides tab completion shortcuts for Knockout
 
+To install, clone it with Git using these steps:
+
+    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+    cd ~/Library/Application\ Support/TextMate/Bundles
+    git clone git://github.com/napcs/knockout-tmbundle.git Knockout.tmbundle
+    
+Then reload bundles in TextMate and create a new HTML file, hit up http://knockoutjs.com/ and try some of the examples.
+    
+    
 Form fields
 ----
 * Text field with binding:                    `kotf`
