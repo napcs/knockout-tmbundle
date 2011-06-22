@@ -33,7 +33,7 @@ Observables
 
 Other
 -----
-* Create a jQuery Template in <script> tags: `jqt`
+* Create a jQuery Template in `script` tags:  `jqt`
 
 Feel free to add other things to this bundle via pull requests.
 
